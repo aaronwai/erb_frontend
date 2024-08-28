@@ -12,7 +12,7 @@ export default function Tour({
   return (
     <article className='tour-card'>
       <div className='tour-img-container'>
-        <img src={image} className='tour-img' alt='tour image' />
+        <img src={image} className='tour-img' alt='' />
         <p className='tour-date'>{date}</p>
       </div>
       <div className='tour-info'>

@@ -19,7 +19,7 @@ export default function About() {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto,
             quibusdam!
           </p>
-          <a href='#' className='btn'>
+          <a href='#home' className='btn'>
             {/* TODO : make sure come back to fix the #home */}
             read more
           </a>
